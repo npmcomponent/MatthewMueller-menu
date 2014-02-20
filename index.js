@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var Emitter = require('emitter')
-  , o = require('jquery');
+var Emitter = require('component-emitter')
+  , o = require('component-jquery');
 
 /**
  * Expose `Menu`.
